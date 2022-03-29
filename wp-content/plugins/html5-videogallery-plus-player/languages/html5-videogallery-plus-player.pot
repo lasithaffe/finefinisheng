@@ -1,0 +1,314 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Video gallery and Player\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-29 07:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: html5video.php:103
+msgid "Add New"
+msgstr ""
+
+#: html5video.php:104
+msgid "Add New Video"
+msgstr ""
+
+#: html5video.php:105
+msgid "Edit Video"
+msgstr ""
+
+#: html5video.php:106
+msgid "New Video"
+msgstr ""
+
+#: html5video.php:107
+msgid "All Videos"
+msgstr ""
+
+#: html5video.php:108
+msgid "View Video Gallery"
+msgstr ""
+
+#: html5video.php:109
+msgid "Search Video Gallery"
+msgstr ""
+
+#: html5video.php:110
+msgid "No Videos Gallery found"
+msgstr ""
+
+#: html5video.php:111
+msgid "No Videos Gallery found in Trash"
+msgstr ""
+
+#: html5video.php:113
+msgid "Video Gallery"
+msgstr ""
+
+#: html5video.php:143
+msgid "Search Category"
+msgstr ""
+
+#: html5video.php:144
+msgid "All Category"
+msgstr ""
+
+#: html5video.php:145
+msgid "Parent Category"
+msgstr ""
+
+#: html5video.php:146
+msgid "Parent Category:"
+msgstr ""
+
+#: html5video.php:147
+msgid "Edit Category"
+msgstr ""
+
+#: html5video.php:148
+msgid "Update Category"
+msgstr ""
+
+#: html5video.php:149
+msgid "Add New Category"
+msgstr ""
+
+#: html5video.php:150
+msgid "New Category Name"
+msgstr ""
+
+#: html5video.php:151
+msgid "Video Category"
+msgstr ""
+
+#: html5video.php:208
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: html5video.php:209
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: html5video.php:231
+msgid "Category Shortcode"
+msgstr ""
+
+#: includes/class_admin_metabox.php:30
+msgid "Video Files/Links"
+msgstr ""
+
+#: includes/class_admin_metabox.php:56
+msgid "HTML5 Player"
+msgstr ""
+
+#: includes/class_admin_metabox.php:61
+msgid "video/mp4"
+msgstr ""
+
+#: includes/class_admin_metabox.php:65
+msgid "ie http://videolink.mp4"
+msgstr ""
+
+#: includes/class_admin_metabox.php:70
+msgid "video/webm"
+msgstr ""
+
+#: includes/class_admin_metabox.php:74
+msgid "ie http://videolink.webm"
+msgstr ""
+
+#: includes/class_admin_metabox.php:79
+msgid "video/ogg"
+msgstr ""
+
+#: includes/class_admin_metabox.php:83
+msgid "ie http://videolink.ogg"
+msgstr ""
+
+#: includes/class_admin_metabox.php:101
+msgid "YouTube Link"
+msgstr ""
+
+#: includes/class_admin_metabox.php:106
+msgid "Enter YouTube Link"
+msgstr ""
+
+#: includes/class_admin_metabox.php:110
+msgid "ie https://www.youtube.com/watch?v=07IRBn1oXrU"
+msgstr ""
+
+#: includes/class_admin_metabox.php:128
+msgid "Vimeo Link"
+msgstr ""
+
+#: includes/class_admin_metabox.php:133
+msgid "Enter Vimeo Link"
+msgstr ""
+
+#: includes/class_admin_metabox.php:137
+msgid "ie https://vimeo.com/171807697"
+msgstr ""
+
+#: includes/admin/class-html5vp-admin.php:34
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/class-html5vp-admin.php:34
+#: includes/admin/wp-html5vp-how-it-work.php:15
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/class-html5vp-admin.php:37
+msgid "Upgrade to PRO - Video gallery and Player"
+msgstr ""
+
+#: includes/admin/class-html5vp-admin.php:37
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:38
+msgid "How It Works - Display and shortcode"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:46
+msgid "Geeting Started with Video Gallery"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:50
+msgid ""
+"Step-1: This plugin create a \"Video Gallery\" in WordPress menu section"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:51
+msgid "Step-2: Click on \"Video Gallery --> Add new\" "
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:52
+msgid ""
+"Step-3: Add Video title, link, and video poster image as a featured image."
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:53
+msgid ""
+"Step-4: You can also create the categories under \"Video Gallery--> "
+"category\". Asign the video under respective category and use category "
+"shortcode to display multiple video galleries. "
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:60
+msgid "How Shortcode Works"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:64
+msgid "Step-1: Craete a page say Video gallery OR videos"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:65
+msgid ""
+"Step-2: Add the bellow shortcode OR shortcode from \"Video Gallery--> "
+"category\" "
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:72
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:75
+msgid ""
+"Display Album Gellery and Video Player in a page (list view and grid view)"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:86
+msgid "Gutenberg Support"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:94
+msgid "How it Work"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:98
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:99
+msgid "Step-2. Search \"Video Gallery\" keyword in the Gutenberg block list."
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:100
+msgid ""
+"Step-3. Add any block of Video Gallery and you will find its relative "
+"options on the right end side."
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:112
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:120
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:121
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:122
+msgid "Demo for Designs"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:133
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:151
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:171
+msgid "Go Premium "
+msgstr ""
+
+#: includes/admin/wp-html5vp-how-it-work.php:172
+msgid "View PRO Demo "
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Video Gallery and Player - Features"
+msgstr ""
+
+#. Name of the plugin
+msgid "Video gallery and Player"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy to add and display your HTML5, YouTube, Vimeo vedio gallery with "
+"Magnific Popup to your website. Also work with Gutenberg shortcode block."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.wponlinesupport.com/plugins/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com/"
+msgstr ""
