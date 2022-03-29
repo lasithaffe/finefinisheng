@@ -1,0 +1,1009 @@
+@media( max-width: 1010px) {
+	.facility_card .info p {
+    letter-spacing: 1px;
+    font-size: 0.8vw;
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+}
+}
+@media( max-width: 770px) {
+	#facilities_mobile{
+		display:unset;
+	}
+	#facilities{
+		display:none;
+	}
+	#form_section{
+		    margin-top: 0px!important;
+	}
+	#form_section h3{
+		    font-size: 4.3vw;
+	}
+	#form_section p{
+		    font-size: 3vw;
+	}
+	#industries_list{
+		display:unset;
+	}
+	#flip_card_section{
+		display:none;
+	}
+}
+@media( max-width: 991px) {
+	.form_card h3{
+		font-size: 1.7vw;
+	}
+	.form_card p{
+		font-size: 1.5vw;
+	}
+	.facility_card {
+    width: 50% !important;
+    height: 24vw !important;
+}
+		.facility_card .info h1 {
+    margin: 0px;
+    font-size: 3.1vw;
+}
+	.facility_card .info p {
+    letter-spacing: 1px;
+    font-size: 1.5vw;
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+}
+	.facility_card .info button {
+    padding: 1vw;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    background: white;
+    color: black;
+    font-weight: bold;
+    font-size: 2vw;
+    cursor: pointer;
+    -webkit-transition: 0.4s ease;
+    transition: 0.4s ease;
+}
+	#industries_content{
+		width:100%;
+	}
+	#form_section{
+		width:100%;
+		margin-top:0px!important;
+	}
+	.flip-card{
+		width:33%;
+		    height: 29vw;
+	}
+	#before_last_flip_card{
+		margin-left:17%;
+	}
+	.flip-card-back p {
+		color: black;
+		font-size: 1.5vw;
+	}
+	.card_button span {
+    position: absolute;
+    margin: auto 0;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 1.6vw;
+    /* padding: 10px; */
+	}
+	.card_button svg {
+    height: 5vw;
+    width: 60%;
+    fill: none;
+    stroke-width: 5;
+	}
+}
+@media( max-width: 1250px) {
+	#before_last_card{
+		margin-left:17%;
+	}
+	.facility_card{
+		width: 25%;
+        height: 12vw;
+	}
+	#menu-header-bar-menu {
+    margin-top: 15px;
+    overflow: hidden;
+    font-family: Arial;
+    position: absolute;
+    margin-left: 15vw;
+}
+	#menu-header-bar-menu .menu-item {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 3vh 0.7vw;
+    text-decoration: none;
+}
+}
+@media( max-width: 768px)  {
+	.header_card {display:none}
+}
+
+@media( max-width: 820px){
+.facility_card {
+    width: 50%;
+    height: 24vw;
+}
+	.facility_card .info h1 {
+    margin: 0px;
+    font-size: 3.1vw;
+}
+	.facility_card .info p {
+    letter-spacing: 1px;
+    font-size: 1.5vw;
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+}
+	.facility_card .info button {
+    padding: 1vw;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    background: white;
+    color: black;
+    font-weight: bold;
+    font-size: 2vw;
+    cursor: pointer;
+    -webkit-transition: 0.4s ease;
+    transition: 0.4s ease;
+}
+	.form_card h3 {
+    font-size: 2.7vw;
+}
+	.form_card p {
+    font-size: 2.5vw;
+}
+	.flip-card-back p {
+    color: black;
+    font-size: 1.5vw;
+}
+}
+@media( max-width: 1024px) {
+	#custom_nav_bar{
+		display:none;
+	}
+    .so-se1 li {
+        margin-left: 0px !important
+    }
+    .rit-con {
+        -ms-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+        position: absolute;
+        width: 175px;
+        left: 45px;
+        top: 20px;
+    }
+    .abu-left h2 {
+        width: 100%;
+    }
+    .ser-lis {
+        height: auto;
+    }
+    .ser-lis img {
+        position: relative;
+    }
+    .ser-lis:hover img {
+        width: 100%
+    }
+    .micvis.rit:hover::after {
+        right: -140%;
+    }
+    .micvis.lef:hover::after {
+        left: -128%;
+    }
+    .our-clnt h4 {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .btn-ins {
+        width: 157px;
+    }
+    .count-div {
+        width: 90%;
+    }
+    .acr-ld-sec {
+        background-size: cover
+    }
+    .emply-img {
+        right: auto;
+    }
+    .emply-img img {
+        width: 100%
+    }
+    .pr-clnt>div>div {
+        width: 60%;
+    }
+    .pr-plan {
+        -ms-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+        position: absolute;
+        left: 40px;
+        bottom: auto;
+        top: -31px;
+    }
+    #owl-proj .owl-nav {
+        display: none;
+    }
+}
+@media( max-width: 800px) {
+    .owl-logodex{
+        display: none;
+    }
+    .owl-logomob{
+        display: block;
+    }
+    body > section{
+        overflow-x: hidden;
+    }
+    .our-clnt.right a {
+        text-align: center;
+    }
+    .wy-choos {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .why-back {
+        background-image: initial !important;
+    }
+    .call-f a {
+        font-size: 15px;
+        text-align: center;
+    }
+    .call-f::after {
+        width: 71px;
+    }
+    .call-f.msg::before {
+        width: 60px;
+    }
+    .cont>div>p {
+        font-size: 14px;
+    }
+    .cont>div>span {
+        font-weight: 400;
+        font-size: 20px;
+    }
+    .questions h4 span {
+        font-size: 30px;
+    }
+    .wy-choos a {
+        margin: 0 auto;
+    }
+    .indus .hed-bed h1 {
+        top: 0;
+    }
+    .sub-banner .hed-bed h1 {
+        font-size: 25px;
+    }
+    .ind-con {
+        padding-left: 0;
+    }
+    .ind-con::after {
+        display: none;
+    }
+    body {
+        overflow-x: hidden;
+    }
+    .year {
+        width: 185px;
+        left: -223px;
+    }
+    .pln-ani {
+        width: 500px;
+        margin: 20% auto 0px;
+    }
+    .se-cont {
+        padding: 3% 0px;
+        text-align: center !important;
+    }
+    .job {
+        position: relative;
+        margin: 10% auto 25%;
+        width: 418px;
+    }
+    .car {
+        margin-top: 10%;
+        position: relative;
+        margin-bottom: 0px;
+    }
+    .rit-con {
+        text-align: center;
+        left: 0;
+        width: 100%;
+    }
+    .car img {
+        width: 100%
+    }
+    .aerospace>img {
+        position: relative;
+    }
+    .aerospace {
+        margin: 0% auto 0;
+        right: 0;
+        width: 480px;
+    }
+    .education {
+        margin: 25% auto 0px;
+        width: 425px;
+    }
+    .se9-section {
+        padding-top: 20%;
+    }
+    .lp4 {
+        right: 100px;
+    }
+    .str {
+        display: none;
+    }
+    .ser-de {
+        padding-left: 40px;
+    }
+    .ser-row:hover .ser-de a {
+        margin-top: 10px;
+    }
+    .ser-de h4 {
+        font-size: 20px;
+    }
+    .ser-de p {
+        font-size: 14px;
+    }
+    .cnc-cont p {
+        text-align: center;
+    }
+    .ser-de h4::after {
+        position: absolute;
+        top: 15px;
+    }
+    .cnc-cont a {
+        margin: 0 auto;
+    }
+    .sec-cnc {
+        padding: 90px;
+    }
+    .prdit-top h2 {
+        width: 100%;
+    }
+    .bar-act::after {
+        display: none;
+    }
+    .bar-act {
+        text-align: center;
+    }
+    .problems-div h4 span {
+        padding-left: 0px;
+    }
+    .bar-cont::after {
+        display: none;
+    }
+    .bar-cont {
+        width: 100%;
+        padding: 30px 30px 20px 30px;
+    }
+    .reviews-section::after {
+        display: none;
+    }
+    .client-h4>h5 {
+        width: 100%;
+    }
+    .related-div {
+        width: 100%;
+    }
+    .related-owl {
+        width: 100%;
+    }
+    .problems-div p {
+        text-align: center;
+    }
+    .problems-div h4 {
+        text-align: center;
+    }
+    .problems-left {
+        width: 100%;
+    }
+    .pr-plan {
+        left: 0;
+    }
+    .clik-img {
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+    .pr-clnt {
+        width: 100%;
+        padding-left: 0;
+    }
+    .count-div {
+        width: 100%;
+    }
+    .emply-row {
+        margin-bottom: 30px;
+        margin-top: 70px;
+    }
+    .emply-img {
+        display: none;
+    }
+    .count-div span {
+        font-size: 50px;
+    }
+    .count-div p {
+        font-size: 14px;
+    }
+    .btn-ins {
+        width: 128px;
+        padding: 15px 0px;
+    }
+    .clnt-img img {
+        margin: 0 auto;
+        display: block;
+    }
+    .our-clnt.right img {
+        float: none;
+    }
+    .our-clnt.right a {
+        padding-left: 0px;
+    }
+    .questions.ind::after {
+        -ms-transform: skewX(-9deg);
+        -webkit-transform: skewX(-9deg);
+        transform: skewX(-2deg);
+        right: -75px;
+    }
+    .our-clnt.right {
+        left: auto;
+    }
+    .our-clnt a {
+        width: 100%;
+        text-align: center;
+        padding-left: 0px;
+    }
+    .our-clnt a::after {
+        display: none;
+    }
+    #owl-epecialized {
+        width: 100%;
+    }
+    .cont-gary.con-right::after {
+        background-image: url(../img/trangal.png);
+        content: '';
+        width: 42px;
+        height: 79px;
+        position: absolute;
+        left: -29px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .our-clnt {
+        right: auto;
+    }
+    .ind-con::after {
+        top: 90%;
+    }
+    .ta-right {
+        text-align: center;
+    }
+    .footer-left {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .footer-left h4::after {
+        right: 0px;
+        margin: 0 auto;
+    }
+    .cont-left, .cont-right {
+        width: 100%;
+        padding: 70px 20px 60px 15px;
+    }
+    .cont-box ul li {
+        width: 90%;
+    }
+    .about-cont {
+        margin-top: 0;
+        font-size: 15px;
+    }
+    .micvis.rit::after {
+        display: none;
+    }
+    .micvis.lef::after {
+        display: none;
+    }
+    .year {
+        font-size: 44px;
+        padding-right: 50px
+    }
+    .opening h4 {
+        font-size: 20px;
+    }
+    .our-clnt h4 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .our-clnt p {
+        margin-top: 15px;
+    }
+    .clnt-img {
+        width: 70%;
+        margin: 0 auto;
+    }
+    .our-clnt {
+        text-align: center;
+    }
+    .our-clnt p {
+        width: 100%;
+    }
+    .ser-de h4 a {
+        font-size: 20px;
+    }
+    .brif-cont p {
+        padding-left: 0px;
+    }
+    .duis_autem h3 {
+        font-size: 35px;
+    }
+    .ds_section .duis_autem {
+        text-align: center;
+    }
+    .ds_section {
+        padding: 30px 0px;
+    }
+    .duis_autem_section {
+        padding: 90px 0px 90px;
+    }
+    .duis_section {
+        padding-top: 45px;
+    }
+    .duis_section .duis_autem {
+        text-align: center;
+    }
+    .duis_autem h3 {
+        margin-bottom: 0px
+    }
+    .tig-div>div {
+        width: 19%;
+    }
+    .tig span {
+        font-size: 14px;
+    }
+    .tig-div {
+        text-align: center;
+    }
+    .tig {
+        font-size: 16px;
+        padding-right: 0px;
+        text-align: center;
+    }
+    .duis_autem {
+        text-align: center;
+    }
+    .deit-enqur {
+        display: none;
+    }
+}
+@media( max-width: 680px) {
+    .rit-con {
+        display: none;
+    }
+    .so-se1 li {
+        list-style: none;
+    }
+    .duis_autem h3 {
+        font-size: 22px;
+        line-height: 31px;
+    }
+    .tig-div>div {
+        width: 45% !important;
+        border: none;
+        margin-bottom: 3px;
+        background-color: rgba(0, 0, 0, 0.81);
+        padding: 10px;
+    }
+    .Arc-Welding {
+        margin-bottom: 0px;
+    }
+    .Arc-Welding img {
+        width: 100%;
+    }
+    .brif-cont p {
+        text-align: center;
+    }
+    .tig-div {
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+    .amin-vdo>div.wd-15 {
+        width: 0%;
+        overflow: hidden;
+    }
+    .our-clnt h4 {
+        font-size: 25px;
+    }
+    .call-f {
+        height: 150px;
+        padding: 25px 0px;
+    }
+    .anim>div>section {
+        height: auto !important;
+    }
+    .call-f::after, .call-f.msg::before, .footer-cont::before,.footer-cont:after {
+        display: none;
+    }
+    .footer-cont {
+        text-align: center;
+    }
+    .work>p {
+        text-align: center;
+    }
+    .cont h4 {
+        font-size: 20px;
+        right: -143px;
+    }
+    .cat-right {
+        display: none;
+    }
+    .amin-vdo>div {
+        height: 76vw;
+    }
+    .amin-vdo>div.open {
+        width: 100%;
+    }
+    .welcom div {
+        font-size: 14px;
+        width: 100%;
+    }
+    .about-cont {
+        text-align: justify;
+    }
+    .about-cont h4 {
+        text-align: center;
+    }
+    .awd-cont>div {
+        text-align: center;
+        padding: 10px;
+        width: 100%;
+    }
+    .awd-cont h4 {
+        text-align: center;
+    }
+    .year {
+        top: 42px;
+        left: 0px;
+        width: 100%;
+        padding-right: 0px;
+        text-align: center;
+    }
+    .sep-lin {
+        margin-bottom: 0px;
+    }
+    .awd-hed {
+        margin-bottom: 10px;
+    }
+    .awd-lis {
+        margin-bottom: 0px;
+    }
+    .year::after {
+        display: none;
+    }
+    .awd-cont>img {
+        width: 30%;
+        margin: 0 auto;
+        display: block;
+    }
+    .pin {
+        position: absolute;
+        left: 30px !important;
+    }
+    .ser-de h4 a {
+        font-size: 25px;
+    }
+    .ser-row:hover .ser-de p {
+        max-height: 100%;
+        margin-top: auto;
+    }
+    .rit .ser-de a {
+        float: none;
+    }
+    .job {
+        margin: 10% auto 34%;
+    }
+    .so-se1 {
+        text-align: center;
+    }
+    .ser-de p {
+        max-height: 200px;
+    }
+    .ser-de {
+        position: relative;
+    }
+    .ser-de h4 {
+        text-align: center;
+    }
+    .ser-de p {
+        text-align: center;
+    }
+    .rit .ser-de a {
+        text-align: center;
+    }
+    .rit .ser-de {
+        padding-right: 0;
+    }
+    .ser-de a {
+        max-height: 20px;
+        width: 100%;
+        text-align: center;
+    }
+    .ser-de a::after {
+        display: none;
+    }
+    .rit .ser-de p {
+        text-align: center;
+    }
+    .rit .ser-de h4 {
+        text-align: center;
+    }
+    .ser-de {
+        padding-left: 0px;
+        padding-top: 30px;
+    }
+    .ser-de h4::after {
+        display: none;
+    }
+    .acr-ld {
+        width: 100%;
+    }
+    .count-div span {
+        font-size: 35px;
+    }
+    .count-div p {
+        font-size: 10px;
+    }
+    .acr-img {
+        margin-top: 50px;
+    }
+    .gry-l p {
+        width: 100%;
+    }
+    .count-div {
+        padding-bottom: 50px;
+    }
+    .ind-con {
+        padding-left: 0px;
+    }
+    .ind-con::after {
+        display: none;
+    }
+    .indus>div>div {
+        padding-top: 60%;
+    }
+    .ind-sec::after, .questions.ind::after {
+        display: none;
+    }
+    .questions.ind {
+        padding: 35px 2px 35px;
+    }
+    .from-ind {
+        padding-left: 0px;
+    }
+    .btn-red {
+        display: none;
+    }
+    .indus::after {
+        display: none;
+    }
+    .careers-img {
+        right: auto;
+    }
+    .careers-img img {
+        width: 100%
+    }
+    .awd-fr {
+        text-align: center;
+    }
+    .awd-fr p {
+        text-align: center;
+    }
+    .sub-banner .hed-bed h3 {
+        width: 100%;
+    }
+    .cont-left {
+        width: 100%;
+        padding-left: 30px;
+    }
+    .cont-right {
+        float: left;
+        padding: 70px 30px 60px 30px;
+    }
+    .awd-main {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .rig-clint {
+        background-color: #9b1313;
+        margin-top: 0px;
+    }
+    .rig-clint::after {
+        display: none;
+    }
+    .about-img {
+        margin-right: 0;
+    }
+    .micvis {
+        height: 300px;
+        padding-top: 60px;
+    }
+}
+@media( max-width: 480px) {
+    .sid-menu {    padding-top: 20px;
+    top: 50px;}
+    .amin-vdo{
+            display: block;
+            position: relative;
+    overflow: hidden;
+    }
+    .clik-img .pin:nth-child(1){
+        top: 35px !important;
+    }
+    .clik-img .pin:nth-child(2){
+        top: 105px !important;
+    }
+    .clik-img .pin:nth-child(3){
+        top: 168px !important;
+    }
+    .questions:after {
+        display: none;
+    }
+    .call-f.msg {
+
+    margin-bottom: 15px;
+
+}
+    .pin > div {
+
+    width: 250px;}
+    .vdo .cont>div {
+        top: 20%;
+    }
+    .g-recaptcha>div {
+        margin: 0 auto 20px;
+    }
+    .awd-fr h2 {
+        font-size: 30px;
+    }
+    .from-ind p {
+        padding: 0px;
+        text-align: center;
+    }
+    .row.from-ind {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .from-ind input[type="submit"] {
+        margin: 0 auto;
+        display: block;
+        float: none;
+    }
+    .logo img {
+        width: 160px;
+        margin-top: 10px;
+    }
+    .questions.ind h4 span {
+        font-size: 40px;
+    }
+    .so-se1 h4 span {
+        font-size: 20px;
+    }
+    .so-se1 h4 {
+        font-size: 35px;
+        line-height: 30px;
+    }
+    .se-cont h4 {
+        font-size: 30px;
+    }
+    .tig-div>div {
+        width: 20%;
+    }
+    .tig {
+        font-size: 25px;
+        line-height: 25px;
+    }
+    .problems-div h4 span {
+        font-size: 40px;
+    }
+    .problems-div h4 {
+        font-size: 30px;
+        line-height: 23px;
+    }
+    .bar-cont h6 {
+        text-align: center;
+    }
+    .bar-cont p {
+        text-align: center;
+    }
+    .client-h4 h4 {
+        font-size: 40px;
+        text-align: center;
+    }
+    .client-h4>h5 {
+        font-size: 25px;
+        text-align: center;
+    }
+    .client-h4>p {
+        font-size: 15px;
+        text-align: center;
+    }
+    .client-h4>p span {
+        font-size: 15px;
+    }
+    .side-cont {
+        display: none;
+    }
+    .the-idea-cont h2 {
+        font-size: 35px;
+        margin-bottom: 15px;
+    }
+    .count-div>div {
+        width: 100%;
+    }
+    .count-div p {
+        padding-left: 0;
+    }
+    .count-div span {
+        margin-left: -30px;
+    }
+    .count-div span::after {
+        right: -29px;
+        top: 7px;
+    }
+    .acr-img {
+        margin-top: 0px;
+    }
+    .btn-ins {
+        width: 110px;
+    }
+    .wcu {
+        margin: 70px 0px;
+    }
+    .wcu-img img {
+        width: 100%
+    }
+    .wcu-img {
+        margin-top: 0;
+    }
+    .clnt-img img {
+        width: 100%;
+    }
+    .abu-left h2 {
+        font-size: 28px;
+    }
+    .rig-clint>div span {
+        font-size: 35px;
+    }
+    .rig-clint {
+        height: 125px;
+    }
+    .abu-left {
+        margin-top: 210px;
+    }
+    .about-img {
+        margin-right: 0;
+        margin-top: 30px;
+    }
+	.mem-cont > div{
+	-webkit-column-count: 1;
+
+-moz-column-count: 1;
+
+column-count: 1;
+
+-webkit-column-gap: 0px;
+
+-moz-column-gap: 0px;
+padding: 0px 15px;
+		column-gap: 0px;}
+	.micvis {
+
+		height: 250px;}
+}
